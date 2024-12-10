@@ -17,7 +17,7 @@
 
 Voici une capture d'écran de **Minutor** :
 
-![Aperçu de Minutor](https://github.com/Martialdepaul/Minutor/raw/main/assets/img.png)
+![Aperçu de Minutor](./src/assets/img.png)
 
 ---
 
